@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collected image</folder>
+	<filename>scene00101.jpg</filename>
+	<path>D:\books\apple and oranges\collected image\scene00101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>81</ymin>
+			<xmax>207</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>
